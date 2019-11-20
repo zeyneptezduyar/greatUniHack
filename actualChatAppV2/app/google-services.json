@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153632004623",
+    "firebase_url": "https://actualchatapp.firebaseio.com",
+    "project_id": "actualchatapp",
+    "storage_bucket": "actualchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153632004623:android:ac7b0f453de7de64aaa17a",
+        "android_client_info": {
+          "package_name": "com.example.actualchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153632004623-9iruogp53pd0bh96qvucsl4e7p3cb71v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.actualchatapp",
+            "certificate_hash": "c913a36c49fdacddc0a5d12f9fdcd538d5be280e"
+          }
+        },
+        {
+          "client_id": "153632004623-g6aa4fks4p3u7kcpmpfj7gm97s55bnok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWENvEAdp1wPOfeobUjokPXBJDmRlqbYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153632004623-g6aa4fks4p3u7kcpmpfj7gm97s55bnok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

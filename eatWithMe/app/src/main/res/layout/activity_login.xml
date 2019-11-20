@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+
+    <EditText
+        android:id="@+id/login_email1"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="47dp"
+        />
+
+    <EditText
+        android:id="@+id/login_password1"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/login_email1"
+        android:layout_centerHorizontal="true"
+        android:inputType="textPassword"
+        android:layout_marginBottom="-138dp"
+        />
+
+    <Button
+        android:id="@+id/reg_create_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/login_password1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="-380dp"
+        android:backgroundTint="#D10000"
+        android:text="Login"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>

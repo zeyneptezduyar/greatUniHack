@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032875191082",
+    "firebase_url": "https://oknow-99d3a.firebaseio.com",
+    "project_id": "oknow-99d3a",
+    "storage_bucket": "oknow-99d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032875191082:android:42013f19a9df6905adcc53",
+        "android_client_info": {
+          "package_name": "matei.mple.com.oknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032875191082-cskufa552qq35f9udm3097f5c8qp5ko3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "matei.mple.com.oknow",
+            "certificate_hash": "42c223a976c2a8020b540f4e1cea96d351fb3ae1"
+          }
+        },
+        {
+          "client_id": "1032875191082-nkobkkdln5u50kjohc21sfm8mnqfdu7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp27JlipXa8iwQ6kaA3tCWwgg9dGNMuzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032875191082-nkobkkdln5u50kjohc21sfm8mnqfdu7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

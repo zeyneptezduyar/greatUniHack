@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.50"
+        android:src="@android:drawable/ic_menu_close_clear_cancel"
+        android:text="+"
+        app:backgroundTint="#CA0313" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="1dp"
+        android:layout_marginBottom="57dp"
+        android:alpha="0"
+        android:text="+"
+        app:backgroundTint="#CA0313" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginBottom="0dp"
+        android:alpha="0.50"
+        android:src="@android:drawable/ic_input_add"
+        android:text="="
+        app:backgroundTint="#CA0313" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/post_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</RelativeLayout>

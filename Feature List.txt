@@ -1,0 +1,12 @@
+Lunch App:
+
+Features:
+	Registration and authentication of student accounts +
+	Events every 30m 
+	Users pick events to eat in
+	Users pick where to eat they want to go from a list of locations (foodplace)
+		List of foodplaces have number of people tagged "GOING" there.
+		New foodplaces can be added to by users
+		Added to event chatroom (reset every 30m)
+	First person to arrive, set location description (e.g. table placement)
+	Users tag "LEFT" to indicate leaving the foodplace
